@@ -2,7 +2,6 @@
 <gresources>
   <gresource prefix="/org/gnome/control-center/info">
     <file preprocess="xml-stripblanks">info.ui</file>
-    <file>GnomeLogoVerticalMedium.svg</file>
-    <file>UbuntuLogo.png</file>
+    <file>budgie.svg</file>
   </gresource>
 </gresources>

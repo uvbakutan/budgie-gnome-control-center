@@ -11,3 +11,4 @@ make
 
 sudo checkinstall # (answer questions script asks)
 
+sudo dpkg -i -B --force-depends <package-name>.deb ; sudo  apt-get -f install
